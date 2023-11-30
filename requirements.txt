@@ -8,3 +8,4 @@ requests
 djangorestframework 
 djangorestframework-jwt
 djangorestframework-simplejwt
+bs4==0.0.1
